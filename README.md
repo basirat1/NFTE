@@ -1,5 +1,5 @@
 
-![](images/you-picture.png)
+![](images/image.png)
 Educational purposes only. 
 # 💡 Features
 - [x] Inspect Element Detection
