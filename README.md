@@ -1,6 +1,5 @@
 
-
-❮img src="https://ibb.co/kSdDXCD" ❯
+![](images/you-picture.png)
 Educational purposes only. 
 # 💡 Features
 - [x] Inspect Element Detection
