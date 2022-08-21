@@ -1,4 +1,4 @@
-![preview]https://ibb.co/kSdDXCD
+![github-large]https://ibb.co/kSdDXCD
 Educational purposes only. 
 # 💡 Features
 - [x] Inspect Element Detection
